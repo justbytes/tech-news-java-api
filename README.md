@@ -1,4 +1,4 @@
-# tech-news-java-api
+# Tech News Java Api
 
 ## Description
 
