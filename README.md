@@ -39,4 +39,4 @@ If you have any questions please reach out by going to my Github profile where y
 
 ### Link
 
-Click [here](https://news-feed-with-python.herokuapp.com/) to try out the deployed app!
+Click [here](https://cc-java-api-77.herokuapp.com/) to try out the deployed app!
