@@ -2,7 +2,7 @@
 
 ## Description
 
-This app was created for users that want to share new tech they have discovered or see what other tech users have found. This app was built using the Spring framework and is using the MYSQL database. I have also made this same project using Python. Check it out [here](https://github.com/jessemarino/news-feed-with-python)
+This app was created for users that want to share new tech they have discovered or see what other tech users have found. This app was built using the Spring framework and is using the MYSQL database. I have also made this same project using Python. Check it out [here](https://github.com/jessemarino/news-feed-with-python).
 
 ## Table of Contents
 
